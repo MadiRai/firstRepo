@@ -1,0 +1,11 @@
+/* typography */
+
+h1 {
+    font-family: 'Noto Serif', serif;
+}
+
+p, a {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+/* layout */
