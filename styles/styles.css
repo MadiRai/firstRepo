@@ -8,4 +8,11 @@ p, a {
     font-family: 'Josefin Sans', sans-serif;
 }
 
+p {
+    margin-bottom: 30px;
+    font-size: 14px;
+    color: #060547;
+}
+
 /* layout */
+
